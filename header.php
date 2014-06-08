@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
-<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
-<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
-<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
-<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]--><head>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="pt-br"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="pt-br"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="pt-br"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="pt-br"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="pt-br"><!--<![endif]--><head>
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<title>Flato - Responsive Resume, Personal Portfolio Template</title>
+<title><?php bloginfo('name');?></title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <!--main style-->
@@ -108,6 +108,13 @@
                           <a class="navbar-brand" href="#">Menu</a>
                         </div>
                         <div class="navbar-collapse collapse">
+                          <?php  wp_nav_menu(array(
+                            'menu' => 'Menu',
+                            'container' => 'false',
+                            'menu_class' => 'nav navbar-nav',
+                            'depth' => '1'
+                          ));?>
+                        <!--  
                           <ul class="nav navbar-nav">
                             <li class="menuItem active"><a href="#wrapper">Home</a></li>
                             <li class="menuItem"><a href="#aboutme">About</a></li>
@@ -117,6 +124,7 @@
                             <li class="menuItem"><a href="#protfolio">Portfolio</a></li>
                             <li class="menuItem"><a href="#contact">Contact</a></li>
                           </ul>
+                        -->
                         </div>
                       </div>
                     </div> 

@@ -1,5 +1,32 @@
 <?php
 
+//Desabilita a barra de admin
+add_filter('show_admin_bar', '__return_false');
+
+//habilita a seção de menus no tema
+register_nav_menus( array(
+	'primary' => __('Navegar primaria', 'theme') //theme é o nome do template
+));
+
+
+//widget
+function theme_widget_init(){
+	register_sidebar( array(
+		'name' => __('Sidebar do site', 'theme'),
+		'id' => 'sidebar',
+		'description' => __('Sidebar principal do site que aparece nas paginas de posts'),
+		'before_widget' => '<div id="%1$s" class="widget-container">',
+		'after_widget' => '</div>',
+		'before_title' => '<h3>',
+		'after_title' => '</h3>'
+
+	));
+
+
+}
+
+add_action('widget_init', 'theme_widget_init');
+/*
 if ( function_exists('register_sidebar') )
 	register_sidebar(array(
 	'name' =&gt; 'sidebar',
@@ -38,5 +65,5 @@ register_sidebar(array(
 'after_title' => '</h2>
 ',
 ));
-
+*/
 ?>

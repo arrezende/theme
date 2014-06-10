@@ -79,7 +79,7 @@ $( ".navbar-toggle" ).click(function() {
 
 
 <!--for portfoli filter jquary-->
-<script src="js/jquery.isotope.js" type="text/javascript"></script> 
+<script src="<?php bloginfo( 'template_directory' ); ?>/js/jquery.isotope.js" type="text/javascript"></script> 
 
 
 <!--for portfoli lightbox -->

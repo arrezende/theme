@@ -3,9 +3,13 @@
 <!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="pt-br"> <![endif]-->
 <!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="pt-br"> <![endif]-->
 <!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="pt-br"> <![endif]-->
+<<<<<<< HEAD
 <!--[if gt IE 9]><!-->
 <html class="no-js" lang="pt-br"><!--<![endif]-->
 <head>
+=======
+<!--[if gt IE 9]><!--><html class="no-js" lang="pt-br"><!--<![endif]--><head>
+>>>>>>> 429579d373f46c6a6a04a9b419b2096b96d4b061
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <title><?php bloginfo('name');?></title>
@@ -94,6 +98,20 @@
                             'menu_class' => 'nav navbar-nav',
                             'depth' => '1'
                           ));?>
+<<<<<<< HEAD
+=======
+                        <!--  
+                          <ul class="nav navbar-nav">
+                            <li class="menuItem active"><a href="#wrapper">Home</a></li>
+                            <li class="menuItem"><a href="#aboutme">About</a></li>
+                            <li class="menuItem"><a href="#technical">Skills</a></li>
+                            <li class="menuItem"><a href="#exprience">Experience</a></li>
+                            <li class="menuItem"><a href="#education">Education</a></li>
+                            <li class="menuItem"><a href="#protfolio">Portfolio</a></li>
+                            <li class="menuItem"><a href="#contact">Contact</a></li>
+                          </ul>
+                        -->
+>>>>>>> 429579d373f46c6a6a04a9b419b2096b96d4b061
                         </div>
                       </div>
                     </div> 

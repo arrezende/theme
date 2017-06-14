@@ -1,0 +1,993 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo RJ HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/170.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo RJ
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1448.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo SP
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/89.ts
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasilia" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Brasilia
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1446.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Minas
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1443.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/qnNMqsD.png" group-title="Canais Abertos",RBS TV Porto Alegre
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/43.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="TV Tem Sorocaba" tvg-logo="http://i.imgur.com/NvcE4Kx.png" group-title="Canais Abertos",TV Tem Sorocaba
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1447.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="TV Tem Bauru" tvg-logo="http://i.imgur.com/NvcE4Kx.png" group-title="Canais Abertos",TV Tem Bauru
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1444.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="TV Anhanguera Goiânia" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",TV Anhanguera Goiânia
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1445.ts
+#EXTINF:-1 tvg-id="TVGloboPortugal.pt" tvg-name="Globo Portugal" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/448.ts
+#EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="Globo Premium" tvg-logo="https://s15.postimg.org/55nkqx48b/globo_premium.png" group-title="Canais Abertos",Globo Premium
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/449.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band HD" tvg-logo="http://i.imgur.com/1yYrkhc.png" group-title="Canais Abertos",Band HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/193.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Canais Abertos",Band
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/124.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Canais Abertos",SBT HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/147.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Canais Abertos",SBT
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/36.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/149.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/41.ts
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="RecordTV HD Portugal" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV HD Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1124.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV! HD" tvg-logo="http://i.imgur.com/yxGs0mZ.png" group-title="Canais Abertos",RedeTV! HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/148.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais Abertos",RedeTV!
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/39.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Canais Abertos",Rede Brasil
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/40.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura HD" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Canais Abertos",TV Cultura HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/564.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Canais Abertos",TV Cultura
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/8.ts
+#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV Gazeta HD" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Canais Abertos",TV Gazeta HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/570.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Canais Abertos",Futura
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/91.ts
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola HD" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="Canais Abertos",TV Escola HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/565.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="Canais Abertos",TV Brasil
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/9.ts
+#EXTINF:-1 tvg-id="Rede Família" tvg-name="Rede Família HD" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="Canais Abertos",Rede Família HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/569.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="Canais Abertos",Terra Viva
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/16.ts
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Canais Abertos",Canal Rural
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/119.ts
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="Canais Abertos",Canal do Boi
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="Canais Abertos",Agro Canal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="http://brasilruraltv.com.br/wp-content/uploads/2016/03/ms-icon-310x310.png" group-title="Canais Abertos",Brasil Rural TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1439.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="Canais Abertos",NBR
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/63.ts
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Câmara" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Canais Abertos",TV Câmara
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/567.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/138.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Séries",Telecine Premium
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/18.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Séries",Telecine Action HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/141.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Séries",Telecine Action
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/22.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/137.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Séries",Telecine Touch
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/17.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/139.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Séries",Telecine Pipoca
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/19.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Séries",Telecine Fun HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/140.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Séries",Telecine Fun
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/20.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Séries",Telecine Cult
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/21.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Séries",HBO HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/165.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/84.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Séries",HBO 2 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/167.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/79.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/164.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/82.ts
+#EXTINF:-1 tvg-id="HBO Plus Panregional" tvg-name="HBO Plus *e" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus *e
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/81.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Séries",HBO Family HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/166.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/83.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Séries",HBO Signature HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/163.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Séries",HBO Signature
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/80.ts
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-name="Max" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Séries",Max
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/73.ts
+#EXTINF:-1 tvg-id="Max Up HD [Brazil]" tvg-name="Max UP" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Séries",Max UP
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/70.ts
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/72.ts
+#EXTINF:-1 tvg-id="Max Prime *e [Brazil]" tvg-name="Max Prime *e" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime *e
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/71.ts
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-name="Cinemax" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Séries",Cinemax
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/115.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries",FOX HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/175.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Séries",FOX
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/95.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX Premium 1 HD" tvg-logo="http://i.imgur.com/UdWwHl4.png" group-title="Filmes e Séries",FOX Premium 1 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/177.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX Premium 2 HD" tvg-logo="http://i.imgur.com/nX8XMzD.png" group-title="Filmes e Séries",FOX Premium 2 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/176.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life HD" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Séries",FOX Life HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/174.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Séries",FOX Life
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/94.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/171.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/90.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony HD" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Séries",Canal Sony HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/190.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Séries",Canal Sony
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/118.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Séries",AXN HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/194.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/128.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="http://i.imgur.com/0qAgY7N.png" group-title="Filmes e Séries",Warner Channel HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/580.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner Channel
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/2.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/146.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/32.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/136.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/13.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries HD" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/135.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/12.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/142.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/24.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Séries",TCM
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/23.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://i.imgur.com/L44p3if.png" group-title="Filmes e Séries",I.Sat
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/78.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/160.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/69.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal Channel HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/134.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal Channel
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/5.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Séries",Studio Universal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/26.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Séries",A&E
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/132.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries",Syfy
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/25.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Filmes e Séries",Mais Globosat
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/74.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Filmes e Séries",Canal Brasil
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/120.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Séries",Paramount Channel HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/155.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/57.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Filmes e Séries",Prime Box Brazil
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/45.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV HD" tvg-logo="http://i.imgur.com/BpmL4PI.png" group-title="Esportes",SporTV HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/143.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="http://i.imgur.com/BpmL4PI.png" group-title="Esportes",SporTV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/31.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2 HD" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/145.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/30.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3 HD" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/144.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/28.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="Esportes",FOX Sports HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/173.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",FOX Sports
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/93.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2 HD" tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="Esportes",FOX Sports 2 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/172.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",FOX Sports 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/92.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil HD" tvg-logo="https://s15.postimg.org/osy22irjv/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/180.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/98.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/179.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/99.ts
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN +  HD" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN +  HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1450.ts
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN +" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN +
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/181.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/182.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/101.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2 HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/183.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/100.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/178.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",BandSports HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/192.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",BandSports
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/125.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",OFF HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/156.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",OFF
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/58.ts
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FishTV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",FishTV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/97.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/189.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/114.ts
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC Internacional" tvg-logo="http://i.imgur.com/hjUfeVc.png" group-title="Esportes",PFC Internacional
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/588.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/154.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere Clubes
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 3
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 4
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 5 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 5
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 6
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 7
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 - Mosaico Jogos" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 8 - Mosaico Jogos
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 9
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 10" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 10
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 11" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 11
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/29.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Músicas",GNT HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/169.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Músicas",GNT
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/86.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Músicas",Viva HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/133.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Músicas",Viva
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/3.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Músicas",Multishow HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/159.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Músicas",Multishow
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/67.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Músicas",BIS HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/191.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Músicas",BIS
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/122.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Músicas",MTV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/68.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MegaHits" tvg-logo="http://i.imgur.com/qgozfSK.png" group-title="Variedades e Músicas",VH1 MegaHits
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/4.ts
+#EXTINF:-1 tvg-id="MixTV" tvg-name="Mix TV" tvg-logo="http://i.imgur.com/uCt1ZhV.png" group-title="Variedades e Músicas",Mix TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/572.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedades e Músicas",Music Box Brazil
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/66.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="https://s32.postimg.org/6wvxqle9x/turbo.png" group-title="Variedades e Músicas",Discovery Turbo HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/185.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Variedades e Músicas",Discovery Turbo
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/106.ts
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Variedades e Músicas",TruTV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/10.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Variedades e Músicas",Comedy Central
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/113.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery HD" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Variedades e Músicas",Investigação Discovery HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/161.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Variedades e Músicas",Investigação Discovery
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/77.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health HD" tvg-logo="http://i.imgur.com/ccfBNRH.png" group-title="Variedades e Músicas",Discovery Home&Health HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/187.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Variedades e Músicas",Discovery Home&Health
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/109.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/2zr2KmL.png" group-title="Variedades e Músicas",Lifetime
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/75.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Variedades e Músicas",TLC
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/14.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Variedades e Músicas",E!
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/102.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedades e Músicas",Food Network
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/96.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Variedades e Músicas",Curta!
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/112.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/RyMlI0l.png" group-title="Documentários",Animal Planet HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/195.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/131.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentários",Discovery Channel HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/188.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentários",Discovery Channel
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/111.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentários",Discovery Theater HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/186.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentários",Discovery World HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/184.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/107.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentários",Discovery Civilization
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/110.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo HD" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",Nat Geo HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/157.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",Nat Geo
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/64.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/158.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/65.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel HD" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentários",History Channel HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/162.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/15.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="Documentários",H2 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/168.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentários",H2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/85.ts
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GloboNews" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",GloboNews
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/88.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/129.ts
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",BandNews
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/126.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/42.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/121.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantil",Cartoon Network
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/116.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/11.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nick
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/60.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/61.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/103.ts
+#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/105.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/104.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Infantil",Discovery Kids
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/108.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/87.ts
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="PlayTV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Infantil",PlayTV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/56.ts
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Rá Tim Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá Tim Bum
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/7.ts
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Cancao Nova" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="Religiosos",Cancao Nova
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/117.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/38.ts
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religiosos",Rede Século 21
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/574.ts
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="Rede Super" tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="Religiosos",Rede Super
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/575.ts
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="http://i.imgur.com/mxBB8c4.png" group-title="Religiosos",RIT
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideões" tvg-logo="http://i.imgur.com/mwtWkvu.png" group-title="Religiosos",TV Gideões
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1214.ts
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="http://i.imgur.com/liOLnFU.png" group-title="Religiosos",TV Novo Tempo
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/59.ts
+#EXTINF:-1 tvg-id="RBI TV" tvg-name="RBI" tvg-logo="http://i.imgur.com/y8YCFOZ.png" group-title="Religiosos",RBI
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/44.ts
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="Ideal TV" tvg-logo="http://i.imgur.com/MbQrqgu.png" group-title="Religiosos",Ideal TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/76.ts
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVC1 HD" tvg-logo="http://i.imgur.com/vMR9wWm.png" group-title="Filmes e Séries Portugal",TVC1 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1111.ts
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVC2 HD" tvg-logo="http://i.imgur.com/ugRnSbz.png" group-title="Filmes e Séries Portugal",TVC2 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1110.ts
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVC3 HD" tvg-logo="http://i.imgur.com/XeFAxLH.png" group-title="Filmes e Séries Portugal",TVC3 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1109.ts
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVC4 HD" tvg-logo="http://i.imgur.com/zu4xq9a.png" group-title="Filmes e Séries Portugal",TVC4 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1108.ts
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="TVS HD" tvg-logo="http://i.imgur.com/dtzTWIu.png" group-title="Filmes e Séries Portugal",TVS HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1107.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX HD Portugal" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries Portugal",FOX HD Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1051.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime HD" tvg-logo="http://i.imgur.com/DORlxwE.png" group-title="Filmes e Séries Portugal",FOX Crime HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1050.ts
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX Comedy HD" tvg-logo="http://i.imgur.com/QWxs10M.png" group-title="Filmes e Séries Portugal",FOX Comedy HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1049.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX Life HD Portugal" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Séries Portugal",FOX Life HD Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1052.ts
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX Movies" tvg-logo="http://i.imgur.com/8orvOih.png" group-title="Filmes e Séries Portugal",FOX Movies
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1053.ts
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX Movies HD" tvg-logo="http://i.imgur.com/8orvOih.png" group-title="Filmes e Séries Portugal",FOX Movies HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1054.ts
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN Black HD" tvg-logo="http://i.imgur.com/jcsT9ui.png" group-title="Filmes e Séries Portugal",AXN Black HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1014.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN HD Portugal" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Séries Portugal",AXN HD Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1015.ts
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White HD" tvg-logo="http://i.imgur.com/vTLTKe9.png" group-title="Filmes e Séries Portugal",AXN White HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1016.ts
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood HD" tvg-logo="http://i.imgur.com/75htbjG.png" group-title="Filmes e Séries Portugal",Hollywood HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1057.ts
+#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="SyFy HD Portugal" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries Portugal",SyFy HD Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1102.ts
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD Portugal" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries Portugal",AMC HD Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1013.ts
+#EXTINF:-1 tvg-id="AandE.pt" tvg-name="A&E Portugal" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Séries Portugal",A&E Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1011.ts
+#EXTINF:-1 tvg-id="SUNDANCE.pt" tvg-name="Sundance HD" tvg-logo="http://i.imgur.com/9PA4s8t.png" group-title="Filmes e Séries Portugal",Sundance HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1101.ts
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo" tvg-logo="http://i.imgur.com/F2yMgKD.png" group-title="Filmes e Séries Portugal",Cinemundo
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1030.ts
+#EXTINF:-1 tvg-id="BBCentertainment.pt" tvg-name="BBC Entertainment" tvg-logo="http://i.imgur.com/DSkbCYQ.png" group-title="Filmes e Séries Portugal",BBC Entertainment
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1019.ts
+#EXTINF:-1 tvg-id="sporttvmais.pt" tvg-name="SPORT·TV+" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV+
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1099.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT·TV1 HD" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV1 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1098.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT·TV2 HD" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV2 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1097.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT·TV3 HD" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV3 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1096.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT·TV4 HD" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV4 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1095.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT·TV5 HD" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV5 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1094.ts
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV HD" tvg-logo="http://i.imgur.com/vjKgvsb.png" group-title="Esportes Portugal",BTV HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1022.ts
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting TV HD" tvg-logo="http://i.imgur.com/Eho8ert.png" group-title="Esportes Portugal",Sporting TV HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1100.ts
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 Portugal" tvg-logo="http://i.imgur.com/Vy5xshi.png" group-title="Esportes Portugal",Eurosport 1 Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1044.ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 Portugal" tvg-logo="http://i.imgur.com/9AjNDfW.png" group-title="Esportes Portugal",Eurosport 2 Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 Xtra HD" tvg-logo="http://i.imgur.com/9AjNDfW.png" group-title="Esportes Portugal",Eurosport 2 Xtra HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1042.ts
+#EXTINF:-1 tvg-id="EurosportNews.pt" tvg-name="Eurosport News" tvg-logo="http://i.imgur.com/VQ2qbIb.png" group-title="Esportes Portugal",Eurosport News
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1041.ts
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV" tvg-logo="http://i.imgur.com/0YJ6DWt.png" group-title="Esportes Portugal",A Bola TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1010.ts
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel TV HD" tvg-logo="http://i.imgur.com/AKff1Rd.png" group-title="Esportes Portugal",Fuel TV HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1055.ts
+#EXTINF:-1 tvg-id="MCSExtreme.pt" tvg-name="MCS Extreme" tvg-logo="http://i.imgur.com/QNdRwyZ.png" group-title="Esportes Portugal",MCS Extreme
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1065.ts
+#EXTINF:-1 tvg-id="FightNetwork.pt" tvg-name="Fight Network HD" tvg-logo="http://i.imgur.com/TC4nPfD.png" group-title="Esportes Portugal",Fight Network HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1046.ts
+#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport" tvg-logo="http://i.imgur.com/HqTltHY.png" group-title="Esportes Portugal",Kombat Sport
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1060.ts
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision HD" tvg-logo="http://i.imgur.com/zGQwFTP.png" group-title="Esportes Portugal",Motorvision HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1069.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motors TV" tvg-logo="http://i.imgur.com/qdgpQeF.png" group-title="Esportes Portugal",Motors TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1068.ts
+#EXTINF:-1 tvg-id="OutdoorChannel.eu" tvg-name="Outdoor Channel HD" tvg-logo="http://i.imgur.com/GYCbt9B.png" group-title="Esportes Portugal",Outdoor Channel HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1076.ts
+#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="Caça e Pesca" tvg-logo="http://i.imgur.com/52E8cjp.png" group-title="Esportes Portugal",Caça e Pesca
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1024.ts
+#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="Caçavision" tvg-logo="http://i.imgur.com/rCNhiZ3.png" group-title="Esportes Portugal",Caçavision
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1025.ts
+#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="Toros TV" tvg-logo="http://i.imgur.com/tRqHI9K.png" group-title="Esportes Portugal",Toros TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1104.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality" tvg-logo="http://i.imgur.com/Vf17zbR.png" group-title="Variedades e Músicas Portugal",TVI Reality
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1121.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camara Exclusiva 1" tvg-logo="http://i.imgur.com/Vf17zbR.png" group-title="Variedades e Músicas Portugal",TVI Reality Camara Exclusiva 1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1120.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camara Exclusiva 2" tvg-logo="http://i.imgur.com/Vf17zbR.png" group-title="Variedades e Músicas Portugal",TVI Reality Camara Exclusiva 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1119.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camara Exclusiva 3" tvg-logo="http://i.imgur.com/Vf17zbR.png" group-title="Variedades e Músicas Portugal",TVI Reality Camara Exclusiva 3
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1118.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camara Exclusiva 4" tvg-logo="http://i.imgur.com/Vf17zbR.png" group-title="Variedades e Músicas Portugal",TVI Reality Camara Exclusiva 4
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1117.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Mosaico" tvg-logo="http://i.imgur.com/Vf17zbR.png" group-title="Variedades e Músicas Portugal",TVI Reality Mosaico
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1116.ts
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP1" tvg-logo="http://i.imgur.com/DlY0c61.png" group-title="Variedades e Músicas Portugal",RTP1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1078.ts
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP2" tvg-logo="http://i.imgur.com/aGpX9CJ.png" group-title="Variedades e Músicas Portugal",RTP2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1079.ts
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="http://i.imgur.com/SjjX8zy.png" group-title="Variedades e Músicas Portugal",RTP Açores
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1081.ts
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="http://i.imgur.com/EjaIp8l.png" group-title="Variedades e Músicas Portugal",RTP Madeira
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1084.ts
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP Africa" tvg-logo="http://i.imgur.com/ExEAffb.png" group-title="Variedades e Músicas Portugal",RTP Africa
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1082.ts
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memória" tvg-logo="http://i.imgur.com/ZolxFJN.png" group-title="Variedades e Músicas Portugal",RTP Memória
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1085.ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://i.imgur.com/dID9nus.png" group-title="Variedades e Músicas Portugal",SIC
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1086.ts
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical" tvg-logo="http://i.imgur.com/DL4Ol4L.png" group-title="Variedades e Músicas Portugal",SIC Radical
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1092.ts
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher" tvg-logo="http://i.imgur.com/C42CGy3.png" group-title="Variedades e Músicas Portugal",SIC Mulher
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1090.ts
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras" tvg-logo="http://i.imgur.com/BAb6Qa5.png" group-title="Variedades e Músicas Portugal",SIC Caras
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1087.ts
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="http://i.imgur.com/doTfHuK.png" group-title="Variedades e Músicas Portugal",TVI
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1112.ts
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="http://i.imgur.com/VMOabft.png" group-title="Variedades e Músicas Portugal",TVI Ficção
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1114.ts
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="http://i.imgur.com/fCA2V5E.png" group-title="Variedades e Músicas Portugal",Porto Canal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1077.ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="http://i.imgur.com/8vFlN1O.png" group-title="Variedades e Músicas Portugal",Canal Q
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1027.ts
+#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="Localvisao HD" tvg-logo="http://i.imgur.com/UU8pRD4.png" group-title="Variedades e Músicas Portugal",Localvisao HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1061.ts
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Portugal" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Variedades e Músicas Portugal",E! Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1038.ts
+#EXTINF:-1 tvg-id="FineLiving.pt" tvg-name="Fine Living Network HD" tvg-logo="http://i.imgur.com/By2QPtz.png" group-title="Variedades e Músicas Portugal",Fine Living Network HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1047.ts
+#EXTINF:-1 tvg-id="MCSLifeStyle.pt" tvg-name="MCS LifeStyle" tvg-logo="http://i.imgur.com/J7GMNF2.png" group-title="Variedades e Músicas Portugal",MCS LifeStyle
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1066.ts
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel HD" tvg-logo="http://i.imgur.com/sy7iDMs.png" group-title="Variedades e Músicas Portugal",Travel Channel HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1106.ts
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC Portugal" tvg-logo="http://s7.postimg.org/9xq1acbgn/TLC.png" group-title="Variedades e Músicas Portugal",TLC Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1103.ts
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen HD" tvg-logo="http://i.imgur.com/YYhP6We.png" group-title="Variedades e Músicas Portugal",24Kitchen HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1009.ts
+#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="Food Network Portugal" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedades e Músicas Portugal",Food Network Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1048.ts
+#EXTINF:-1 tvg-id="CRIMEINV" tvg-name="Crime+Investigation" tvg-logo="http://i.imgur.com/EZ8Swnr.png" group-title="Variedades e Músicas Portugal",Crime+Investigation
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1032.ts
+#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="CBS Reality" tvg-logo="http://i.imgur.com/t50aWpf.png" group-title="Variedades e Músicas Portugal",CBS Reality
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1029.ts
+#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="MCM Pop" tvg-logo="http://i.imgur.com/Ic7RNlL.png" group-title="Variedades e Músicas Portugal",MCM Pop
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1063.ts
+#EXTINF:-1 tvg-id="mcmtop.pt" tvg-name="MCM Top" tvg-logo="http://i.imgur.com/na9CaCy.png" group-title="Variedades e Músicas Portugal",MCM Top
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1064.ts
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="MTV Portugal" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Músicas Portugal",MTV Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1071.ts
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="VH1 Portugal" tvg-logo="http://i.imgur.com/UdgsfWl.png" group-title="Variedades e Músicas Portugal",VH1 Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1122.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="http://i.imgur.com/Jk5eOfi.png" group-title="Variedades e Músicas Portugal",VH1 Classic
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1123.ts
+#EXTINF:-1 tvg-id="C-Music.pt" tvg-name="C Music TV" tvg-logo="http://i.imgur.com/r6jfioQ.png" group-title="Variedades e Músicas Portugal",C Music TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1023.ts
+#EXTINF:-1 tvg-id="Iconcerts.fr" tvg-name="iConcerts HD" tvg-logo="http://i.imgur.com/7t4Rz1f.png" group-title="Variedades e Músicas Portugal",iConcerts HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1058.ts
+#EXTINF:-1 tvg-id="TraceTVUrban.pt" tvg-name="Trace Urban" tvg-logo="http://i.imgur.com/Ex2jAnU.png" group-title="Variedades e Músicas Portugal",Trace Urban
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1105.ts
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music Channel" tvg-logo="http://i.imgur.com/5n9UKyi.png" group-title="Variedades e Músicas Portugal",Afro Music Channel
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1012.ts
+#EXTINF:-1 tvg-id="FashionTV.nws" tvg-name="FashionTV" tvg-logo="http://i.imgur.com/55mXlwR.png" group-title="Variedades e Músicas Portugal",FashionTV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1045.ts
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel Portugal" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentários Portugal",Discovery Channel Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1033.ts
+#EXTINF:-1 tvg-id="DiscoveryHDShowcase.pt" tvg-name="Discovery Showcase HD" tvg-logo="http://i.imgur.com/VT4A3hc.png" group-title="Documentários Portugal",Discovery Showcase HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1034.ts
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic Channel HD Portugal" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="Documentários Portugal",National Geographic Channel HD Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1073.ts
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="Nat Geo Wild HD Portugal" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários Portugal",Nat Geo Wild HD Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1072.ts
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="Historia" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentários Portugal",Historia
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1056.ts
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="http://i.imgur.com/DMdzgxc.png" group-title="Documentários Portugal",Odisseia
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1075.ts
+#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="Dog TV HD" tvg-logo="http://i.imgur.com/VUX4O2Q.png" group-title="Documentários Portugal",Dog TV HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1037.ts
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Noticias" tvg-logo="http://i.imgur.com/qpsjiJx.png" group-title="Notícias Portugal",SIC Noticias
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1091.ts
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="http://i.imgur.com/HTl4qof.png" group-title="Notícias Portugal",RTP3
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1080.ts
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI24" tvg-logo="http://i.imgur.com/XTWxRVh.png" group-title="Notícias Portugal",TVI24
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1113.ts
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="http://i.imgur.com/KL8xP39.png" group-title="Notícias Portugal",CMTV HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1031.ts
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews" tvg-logo="http://i.imgur.com/E21TLEy.png" group-title="Notícias Portugal",Euronews
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1040.ts
+#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="Cartoon Network Portugal" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantil Portugal",Cartoon Network Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1028.ts
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel Portugal" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil Portugal",Disney Channel Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1035.ts
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="Disney Junior Portugal" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil Portugal",Disney Junior Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1036.ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon Portugal" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil Portugal",Nickelodeon Portugal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1074.ts
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda" tvg-logo="http://i.imgur.com/DGPFleH.png" group-title="Infantil Portugal",Canal Panda
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1026.ts
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Biggs" tvg-logo="http://i.imgur.com/ZjJZuSe.png" group-title="Infantil Portugal",Biggs
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1020.ts
+#EXTINF:-1 tvg-id="SicK.pt" tvg-name="SIC Kapa" tvg-logo="http://i.imgur.com/jfw8T9B.png" group-title="Infantil Portugal",SIC Kapa
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1088.ts
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="JimJam" tvg-logo="http://i.imgur.com/iGmOgW3.png" group-title="Infantil Portugal",JimJam
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1059.ts
+#EXTINF:-1 tvg-id="BABYFIRST.pt" tvg-name="Baby First" tvg-logo="http://i.imgur.com/Yls1icl.png" group-title="Infantil Portugal",Baby First
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1017.ts
+#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="Baby TV" tvg-logo="http://i.imgur.com/79c7CdA.png" group-title="Infantil Portugal",Baby TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1018.ts
+#EXTINF:-1 tvg-id="CanalPlusFutbol.es" tvg-name="Movistar Fútbol HD" tvg-logo="http://i.imgur.com/rsQuopc.png" group-title="Espanha",Movistar Fútbol HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1132.ts
+#EXTINF:-1 tvg-id="CanalPlusDeportes.es" tvg-name="Movistar Deportes 1 HD" tvg-logo="http://i.imgur.com/P5aVrB3.png" group-title="Espanha",Movistar Deportes 1 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1131.ts
+#EXTINF:-1 tvg-id="CanalPlusDeportes2.es" tvg-name="Movistar Deportes 2" tvg-logo="http://i.imgur.com/uQkDxiG.png" group-title="Espanha",Movistar Deportes 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1130.ts
+#EXTINF:-1 tvg-id="MovistarMotoGP.es" tvg-name="Movistar MotoGP HD" tvg-logo="http://i.imgur.com/y6fz6xy.png" group-title="Espanha",Movistar MotoGP HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1129.ts
+#EXTINF:-1 tvg-id="Golf.sp" tvg-name="Movistar Golf HD" tvg-logo="http://i.imgur.com/ufBud1Q.png" group-title="Espanha",Movistar Golf HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1133.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN LaLiga" tvg-logo="http://i.imgur.com/vyud0is.png" group-title="Espanha",beIN LaLiga
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1140.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 1 HD" tvg-logo="http://i.imgur.com/JiQ9eJR.png" group-title="Espanha",beIN Sports Max 1 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1137.ts
+#EXTINF:-1 tvg-id="FoxLife.it" tvg-name="Fox Life Italia" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Italia",Fox Life Italia
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1138.ts
+#EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="FOX Crime Italia" tvg-logo="http://i.imgur.com/DORlxwE.png" group-title="Italia",FOX Crime Italia
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1139.ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV HD" tvg-logo="http://i.imgur.com/oje3OQE.png" group-title="Espanha",LaLiga TV HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1145.ts
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="Eurosport 1 Espanha" tvg-logo="http://i.imgur.com/Vy5xshi.png" group-title="Espanha",Eurosport 1 Espanha
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1143.ts
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="Eurosport 2 Espanha" tvg-logo="http://i.imgur.com/9AjNDfW.png" group-title="Espanha",Eurosport 2 Espanha
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1144.ts
+#EXTINF:-1 tvg-id="Barca.pt" tvg-name="Barça TV" tvg-logo="http://i.imgur.com/nNeiCDD.png" group-title="Espanha",Barça TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1141.ts
+#EXTINF:-1 tvg-id="RealMadridTV.sp" tvg-name="Real Madrid TV" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Espanha",Real Madrid TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1128.ts
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caza y Pesca" tvg-logo="http://i.imgur.com/Id6agkk.png" group-title="Espanha",Caza y Pesca
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1142.ts
+#EXTINF:-1 tvg-id="CanalPlusAccion.es" tvg-name="Movistar Accion" tvg-logo="http://i.imgur.com/QOroISn.png" group-title="Espanha",Movistar Accion
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1136.ts
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="Movistar Comedia" tvg-logo="http://i.imgur.com/ldoj8Qp.png" group-title="Espanha",Movistar Comedia
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1135.ts
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="Movistar Series" tvg-logo="http://i.imgur.com/OAiMJHE.png" group-title="Espanha",Movistar Series
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1134.ts
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="TVE 24 Horas" tvg-logo="http://i.imgur.com/JTcSH4k.png" group-title="Espanha",TVE 24 Horas
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1127.ts
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="beIN Sports 1" tvg-logo="http://i.imgur.com/xy2DvHe.png" group-title="França",beIN Sports 1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1160.ts
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="beIN Sports 2" tvg-logo="http://i.imgur.com/VxFOLTo.png" group-title="França",beIN Sports 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1159.ts
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="beIN Sports 3" tvg-logo="http://i.imgur.com/IZHi0Gd.png" group-title="França",beIN Sports 3
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1158.ts
+#EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="BeIN Sports Max 4" tvg-logo="http://i.imgur.com/gJbkbJp.png" group-title="França",BeIN Sports Max 4
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1157.ts
+#EXTINF:-1 tvg-id="BeInSportMax5.fr" tvg-name="BeIN Sports Max 5" tvg-logo="http://i.imgur.com/gJbkbJp.png" group-title="França",BeIN Sports Max 5
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1156.ts
+#EXTINF:-1 tvg-id="BeInSportMax6.fr" tvg-name="BeIN Sports Max 6" tvg-logo="http://i.imgur.com/gJbkbJp.png" group-title="França",BeIN Sports Max 6
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1155.ts
+#EXTINF:-1 tvg-id="BeInSportMax7.fr" tvg-name="BeIN Sports Max 7" tvg-logo="http://i.imgur.com/gJbkbJp.png" group-title="França",BeIN Sports Max 7
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1154.ts
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="Canal+  Sport HD" tvg-logo="http://i.imgur.com/tX0xgDr.png" group-title="França",Canal+  Sport HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1161.ts
+#EXTINF:-1 tvg-id="SFRSport1.fr" tvg-name="SFR Sport 1" tvg-logo="http://i.imgur.com/b465n2P.png" group-title="França",SFR Sport 1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1149.ts
+#EXTINF:-1 tvg-id="SFRSport2.fr" tvg-name="SFR Sport 2" tvg-logo="http://i.imgur.com/1LWMHjy.png" group-title="França",SFR Sport 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1148.ts
+#EXTINF:-1 tvg-id="SFRSport3.fr" tvg-name="SFR Sport 3" tvg-logo="http://i.imgur.com/BV6vbmH.png" group-title="França",SFR Sport 3
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1147.ts
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 França" tvg-logo="http://i.imgur.com/Vy5xshi.png" group-title="França",Eurosport 1 França
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1153.ts
+#EXTINF:-1 tvg-id="Foot24.fr" tvg-name="Foot+ 24/24" tvg-logo="http://i.imgur.com/roFfRWQ.png" group-title="França",Foot+ 24/24
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1152.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://i.imgur.com/jbRA7ce.png" group-title="França",TF1 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1146.ts
+#EXTINF:-1 tvg-id="RTSUn.ch" tvg-name="RTS Un HD" tvg-logo="http://i.imgur.com/OaDhnmq.png" group-title="França",RTS Un HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1151.ts
+#EXTINF:-1 tvg-id="RTSDeux.ch" tvg-name="RTS Deux" tvg-logo="http://i.imgur.com/Xo4rGHz.png" group-title="França",RTS Deux
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1150.ts
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN1 HD" tvg-logo="http://i.imgur.com/luGe2J8.png" group-title="Estados Unidos",TSN1 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1008.ts
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN2 HD" tvg-logo="http://i.imgur.com/E5vXTJG.png" group-title="Estados Unidos",TSN2 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1007.ts
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN3 HD" tvg-logo="http://i.imgur.com/PRnPLWq.png" group-title="Estados Unidos",TSN3 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1006.ts
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN4 HD" tvg-logo="http://i.imgur.com/cnOzhHY.png" group-title="Estados Unidos",TSN4 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1005.ts
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN5 HD" tvg-logo="http://i.imgur.com/jdR9opD.png" group-title="Estados Unidos",TSN5 HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1004.ts
+#EXTINF:-1 tvg-id="Fox Sports 1 (US)" tvg-name="FOX Sports 1 HD USA" tvg-logo="http://i.imgur.com/32eu7Y7.png" group-title="Estados Unidos",FOX Sports 1 HD USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/998.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD USA" tvg-logo="http://i.imgur.com/M4N6kM0.png" group-title="Estados Unidos",FOX Sports 2 HD USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/997.ts
+#EXTINF:-1 tvg-id="ESPN (US)" tvg-name="ESPN HD USA" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Estados Unidos",ESPN HD USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1270.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD" tvg-logo="http://i.imgur.com/NJkCkmV.png" group-title="Estados Unidos",NFL Network HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1000.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="http://i.imgur.com/ENG1GYF.png" group-title="Estados Unidos",MLB Network
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1282.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV USA" tvg-logo="http://i.imgur.com/1tzZuaF.png" group-title="Estados Unidos",NBA TV USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1003.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD" tvg-logo="http://i.imgur.com/teWHw5V.png" group-title="Estados Unidos",WWE Network HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1002.ts
+#EXTINF:-1 tvg-id="NBC Sports Network (US)" tvg-name="NBCSN" tvg-logo="http://i.imgur.com/6YeE9QM.png" group-title="Estados Unidos",NBCSN
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1280.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf" tvg-logo="http://i.imgur.com/cnJJZys.png" group-title="Estados Unidos",NBC Golf
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1001.ts
+#EXTINF:-1 tvg-id="ABC (US)" tvg-name="ABC HD" tvg-logo="http://i.imgur.com/dRMIwNg.png" group-title="Estados Unidos",ABC HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/992.ts
+#EXTINF:-1 tvg-id="ABC Family (US)" tvg-name="Freeform" tvg-logo="http://i.imgur.com/PXK5NjS.png" group-title="Estados Unidos",Freeform
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1281.ts
+#EXTINF:-1 tvg-id="USA (US)" tvg-name="USA HD" tvg-logo="http://i.imgur.com/RYbtjry.png" group-title="Estados Unidos",USA HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1284.ts
+#EXTINF:-1 tvg-id="NBC (US)" tvg-name="NBC" tvg-logo="http://i.imgur.com/hqOfsNl.png" group-title="Estados Unidos",NBC
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1286.ts
+#EXTINF:-1 tvg-id="CW (US)" tvg-name="CW HD" tvg-logo="http://i.imgur.com/xq7xFPg.png" group-title="Estados Unidos",CW HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1285.ts
+#EXTINF:-1 tvg-id="AMC (US)" tvg-name="AMC HD USA" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Estados Unidos",AMC HD USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1275.ts
+#EXTINF:-1 tvg-id="CBS (US)" tvg-name="CBS" tvg-logo="http://i.imgur.com/UmSi5js.png" group-title="Estados Unidos",CBS
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1288.ts
+#EXTINF:-1 tvg-id="HBO (US)" tvg-name="HBO USA" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Estados Unidos",HBO USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/991.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-logo="http://i.imgur.com/P4hS52T.png" group-title="Estados Unidos",HBO Comedy
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/990.ts
+#EXTINF:-1 tvg-id="FOX (US)" tvg-name="FOX HD USA" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Estados Unidos",FOX HD USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/598.ts
+#EXTINF:-1 tvg-id="FX (US)" tvg-name="FX HD USA" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Estados Unidos",FX HD USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/989.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge" tvg-logo="http://i.imgur.com/MRP00Nj.png" group-title="Estados Unidos",Starz Edge
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/993.ts
+#EXTINF:-1 tvg-id="A&E (US)" tvg-name="A&E HD USA" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Estados Unidos",A&E HD USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1289.ts
+#EXTINF:-1 tvg-id="Spike (US)" tvg-name="Spike HD" tvg-logo="http://i.imgur.com/x7LmSXL.png" group-title="Estados Unidos",Spike HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1277.ts
+#EXTINF:-1 tvg-id="Showtime (US)" tvg-name="Showtime" tvg-logo="http://i.imgur.com/lZm6Aks.png" group-title="Estados Unidos",Showtime
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1278.ts
+#EXTINF:-1 tvg-id="Bravo (US)" tvg-name="Bravo" tvg-logo="http://i.imgur.com/FO9wkK1.png" group-title="Estados Unidos",Bravo
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/986.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax USA" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Estados Unidos",Cinemax USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/988.ts
+#EXTINF:-1 tvg-id="Discovery Channel (US)" tvg-name="Discovery Channel USA HD" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Estados Unidos",Discovery Channel USA HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1279.ts
+#EXTINF:-1 tvg-id="Discovery Science (US)" tvg-name="Discovery Science USA" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Estados Unidos",Discovery Science USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1276.ts
+#EXTINF:-1 tvg-id="Cartoon Network (US)" tvg-name="Cartoon Network USA" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Estados Unidos",Cartoon Network USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1283.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD USA" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Estados Unidos",Nick HD USA
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/994.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="http://i.imgur.com/e4Ea66W.png" group-title="Reino Unido",BT Sport 1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1185.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="http://i.imgur.com/vs69EWY.png" group-title="Reino Unido",BT Sport 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1184.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="http://i.imgur.com/mEa0qpf.png" group-title="Reino Unido",BT Sport 3
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1183.ts
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN" tvg-logo="http://i.imgur.com/atODaxk.png" group-title="Reino Unido",BT Sport ESPN
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1182.ts
+#EXTINF:-1 tvg-id="BoxNationHD.uk" tvg-name="Box Nation" tvg-logo="http://i.imgur.com/4xFYQ70.png" group-title="Reino Unido",Box Nation
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1190.ts
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Chelsea TV" tvg-logo="http://i.imgur.com/nkZX7FD.png" group-title="Reino Unido",Chelsea TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1181.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="http://i.imgur.com/yjjCz8Z.png" group-title="Reino Unido",MUTV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1179.ts
+#EXTINF:-1 tvg-id="SkySports1.uk" tvg-name="Sky Sports 1" tvg-logo="http://i.imgur.com/rUG9vUO.png" group-title="Reino Unido",Sky Sports 1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1166.ts
+#EXTINF:-1 tvg-id="SkySports2.uk" tvg-name="Sky Sports 2" tvg-logo="http://i.imgur.com/RBn3vba.png" group-title="Reino Unido",Sky Sports 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1165.ts
+#EXTINF:-1 tvg-id="SkySports3.uk" tvg-name="Sky Sports 3" tvg-logo="http://i.imgur.com/HKrQMWP.png" group-title="Reino Unido",Sky Sports 3
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1164.ts
+#EXTINF:-1 tvg-id="SkySports4.uk" tvg-name="Sky Sports 4" tvg-logo="http://i.imgur.com/KlMjHqK.png" group-title="Reino Unido",Sky Sports 4
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1163.ts
+#EXTINF:-1 tvg-id="SkySports5.uk" tvg-name="Sky Sports 5" tvg-logo="http://i.imgur.com/nvhQzit.png" group-title="Reino Unido",Sky Sports 5
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1162.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="http://i.imgur.com/Igl3Vyy.png" group-title="Reino Unido",Sky Sports F1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1168.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HQ" tvg-logo="http://i.imgur.com/8AdYf3x.png" group-title="Reino Unido",Sky Sports News HQ
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1167.ts
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports" tvg-logo="http://i.imgur.com/FYYQmns.png" group-title="Reino Unido",Premier Sports
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1169.ts
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="MTV Rocks" tvg-logo="http://i.imgur.com/0hBQYbt.png" group-title="Reino Unido",MTV Rocks
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1180.ts
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV Base" tvg-logo="http://i.imgur.com/huILzzC.png" group-title="Reino Unido",MTV Base
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1070.ts
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="MTV Dance" tvg-logo="http://i.imgur.com/BlUYRgS.png" group-title="Reino Unido",MTV Dance
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1062.ts
+#EXTINF:-1 tvg-id="ITV1Westcountry.uk" tvg-name="ITV" tvg-logo="http://i.imgur.com/kUVTbj3.png" group-title="Reino Unido",ITV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1176.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" tvg-logo="http://i.imgur.com/Bi0aWx8.png" group-title="Reino Unido",ITV2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1175.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-logo="http://i.imgur.com/iDXDgF2.png" group-title="Reino Unido",ITV3
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1174.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" tvg-logo="http://i.imgur.com/KKZE85J.png" group-title="Reino Unido",ITV4
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1173.ts
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="http://i.imgur.com/eBfLfoO.png" group-title="Italia",RAI 1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1199.ts
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2" tvg-logo="http://i.imgur.com/QPnMBao.png" group-title="Italia",RAI 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1198.ts
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3" tvg-logo="http://i.imgur.com/E3OKGDV.png" group-title="Italia",RAI 3
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1197.ts
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="RAI 4" tvg-logo="http://i.imgur.com/6jXy9er.png" group-title="Italia",RAI 4
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1196.ts
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="RAI 5" tvg-logo="http://i.imgur.com/Qrn80KO.png" group-title="Italia",RAI 5
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1195.ts
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="http://i.imgur.com/ntMyvYv.png" group-title="Italia",Italia 1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1126.ts
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="http://i.imgur.com/lmSseSV.png" group-title="Italia",Italia 2
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1125.ts
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="http://i.imgur.com/bSqcK2e.png" group-title="Italia",Canale 5
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1039.ts
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="http://i.imgur.com/I9RkM9B.png" group-title="Italia",Real Time
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1089.ts
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" tvg-logo="http://i.imgur.com/RytlXup.png" group-title="Italia",Top Crime
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1067.ts
+#EXTINF:-1 tvg-id="La7.it" tvg-name="LA 7" tvg-logo="http://i.imgur.com/sS8iQPp.png" group-title="Italia",LA 7
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/987.ts
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI Movie" tvg-logo="http://i.imgur.com/kZWUCcZ.png" group-title="Italia",RAI Movie
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/999.ts
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI Premium" tvg-logo="http://i.imgur.com/J8z2XnX.png" group-title="Italia",RAI Premium
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/127.ts
+#EXTINF:-1 tvg-id="FOX Sports 1 (Nl)" tvg-name="FOX Sports 1 Holanda" tvg-logo="http://i.imgur.com/p3RV5dT.png" group-title="Internacionais",FOX Sports 1 Holanda
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1178.ts
+#EXTINF:-1 tvg-id="FOX Sports 3 (Nl)" tvg-name="FOX Sports 3 Holanda" tvg-logo="http://i.imgur.com/9r4KFWH.png" group-title="Internacionais",FOX Sports 3 Holanda
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1177.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC News HD" tvg-logo="http://i.imgur.com/BGYt0oy.png" group-title="Internacionais",ABC News HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1192.ts
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC World News" tvg-logo="http://i.imgur.com/vK8BnTQ.png" group-title="Internacionais",BBC World News
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1188.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Internacional" tvg-logo="http://i.imgur.com/EQG9OOD.png" group-title="Internacionais",CBS News Internacional
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1191.ts
+#EXTINF:-1 tvg-id="CNN.nws" tvg-name="CNN" tvg-logo="http://i.imgur.com/i40rOj3.png" group-title="Internacionais",CNN
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1187.ts
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="http://i.imgur.com/9EPU2sQ.png" group-title="Internacionais",Sky News
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1093.ts
+#EXTINF:-1 tvg-id="FOXNews.uk" tvg-name="FOX News" tvg-logo="http://i.imgur.com/dFhQAGv.png" group-title="Internacionais",FOX News
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1189.ts
+#EXTINF:-1 tvg-id="Bloomberg.nws" tvg-name="Bloomberg" tvg-logo="http://i.imgur.com/U0WCUeM.png" group-title="Internacionais",Bloomberg
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1021.ts
+#EXTINF:-1 tvg-id="TVEi.nws" tvg-name="TVE Internacional" tvg-logo="http://i.imgur.com/R55g3Hb.png" group-title="Internacionais",TVE Internacional
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1193.ts
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-name="SIC Internacional" tvg-logo="http://i.imgur.com/GsoX6Ep.png" group-title="Internacionais",SIC Internacional
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/33.ts
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-name="RTP Internacional" tvg-logo="http://i.imgur.com/yywr0qy.png" group-title="Internacionais",RTP Internacional
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1083.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC Internacional" tvg-logo="http://i.imgur.com/uTacQnu.png" group-title="Internacionais",TVC Internacional
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1186.ts
+#EXTINF:-1 tvg-id="TVIInt.pt" tvg-name="TVI Internacional" tvg-logo="http://i.imgur.com/doTfHuK.png" group-title="Internacionais",TVI Internacional
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1115.ts
+#EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK World" tvg-logo="http://i.imgur.com/97S2U28.png" group-title="Internacionais",NHK World
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/62.ts
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adultos",Playboy TV
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/55.ts
+#EXTINF:-1 tvg-id="SexyHot" tvg-name="Sexy Hot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adultos",Sexy Hot
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/34.ts
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adultos",Sextreme
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/35.ts
+#EXTINF:-1 tvg-id="venus.pt" tvg-name="Venus" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="Adultos",Venus
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1200.ts
+#EXTINF:-1 tvg-id="Hot.pt" tvg-name="HOT HD" tvg-logo="http://i.imgur.com/8a71pse.png" group-title="Adultos",HOT HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1204.ts
+#EXTINF:-1 tvg-id="HustlerHD.ero" tvg-name="Hustler HD" tvg-logo="http://i.imgur.com/BQzmgyG.png" group-title="Adultos",Hustler HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1205.ts
+#EXTINF:-1 tvg-id="RedlightHD.ero" tvg-name="Redlight HD" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="Adultos",Redlight HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1201.ts
+#EXTINF:-1 tvg-id="DuskTV.ero" tvg-name="Dusk" tvg-logo="http://i.imgur.com/j0igRZd.png" group-title="Adultos",Dusk
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1206.ts
+#EXTINF:-1 tvg-id="Dorcel.ero" tvg-name="Dorcel HD" tvg-logo="http://i.imgur.com/LpbTbG4.png" group-title="Adultos",Dorcel HD
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1203.ts
+#EXTINF:-1 tvg-id="PenthouseHD1.ero" tvg-name="Penthouse HD1" tvg-logo="http://i.imgur.com/s7hsQT0.png" group-title="Adultos",Penthouse HD1
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/1202.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBN" tvg-logo="http://i.imgur.com/FYH0DrA.png" group-title="Rádios",CBN
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mega FM" tvg-logo="http://i.imgur.com/7jTHhzT.png" group-title="Rádios",Mega FM
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Globo SP" tvg-logo="http://i.imgur.com/SfwLMid.png" group-title="Rádios",Rádio Globo SP
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/983.ts
+#EXTINF:-1 tvg-id="" tvg-name="BH FM" tvg-logo="http://i.imgur.com/cntzzTI.png" group-title="Rádios",BH FM
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/982.ts
+#EXTINF:-1 tvg-id="" tvg-name="Joven Pan AM" tvg-logo="http://i.imgur.com/e9tIuVM.png" group-title="Rádios",Joven Pan AM
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Joven Pan FM" tvg-logo="http://i.imgur.com/NzenjYr.png" group-title="Rádios",Joven Pan FM
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Gaúcha" tvg-logo="http://i.imgur.com/CzEMQQz.png" group-title="Rádios",Rádio Gaúcha
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/979.ts
+#EXTINF:-1 tvg-id="" tvg-name="RFI" tvg-logo="http://i.imgur.com/Pis6I3p.png" group-title="Rádios",RFI
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/978.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Globo RJ" tvg-logo="http://i.imgur.com/SfwLMid.png" group-title="Rádios",Rádio Globo RJ
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/977.ts
+#EXTINF:-1 tvg-id="" tvg-name="Transamérica" tvg-logo="http://i.imgur.com/udIpXmJ.png" group-title="Rádios",Transamérica
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/976.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nativa" tvg-logo="http://i.imgur.com/SuIdADT.png" group-title="Rádios",Nativa
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/975.ts
+#EXTINF:-1 tvg-id="" tvg-name="BandNews FM" tvg-logo="http://i.imgur.com/EXrKRuv.png" group-title="Rádios",BandNews FM
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/974.ts
+#EXTINF:-1 tvg-id="" tvg-name="Itatiaia AM-FM" tvg-logo="http://i.imgur.com/5CS0Fqq.png" group-title="Rádios",Itatiaia AM-FM
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/973.ts
+#EXTINF:-1 tvg-id="" tvg-name="Verdes Mares" tvg-logo="http://i.imgur.com/CQtlKq8.png" group-title="Rádios",Verdes Mares
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clube FM" tvg-logo="http://i.imgur.com/6u6laaU.png" group-title="Rádios",Clube FM
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Bandeirantes" tvg-logo="http://i.imgur.com/MPW7Ryz.png" group-title="Rádios",Rádio Bandeirantes
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band FM" tvg-logo="http://i.imgur.com/wvmPr5Z.png" group-title="Rádios",Band FM
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/969.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Kids
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/557.ts
+#EXTINF:-1 tvg-id="" tvg-name="MPB" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",MPB
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bossa Nova" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Bossa Nova
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/555.ts
+#EXTINF:-1 tvg-id="" tvg-name="Forró" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Forró
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pagode" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Pagode
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 2000" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 2000
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sertanejo" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Sertanejo
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/551.ts
+#EXTINF:-1 tvg-id="" tvg-name="Funk" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Funk
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rock Clássico" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Rock Clássico
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/549.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lounge" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Lounge
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pop Rock" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Pop Rock
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/547.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 70
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 80" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 80
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/545.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 90" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 90
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Românticas" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Românticas
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rap Nacional" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Rap Nacional
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rock Brasil" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Rock Brasil
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eletrônica" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Eletrônica
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Festa" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Festa
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gospel" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Gospel
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hop" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Hip Hop
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/537.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jazz" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Jazz
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Axé" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Axé
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brega" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Brega
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/534.ts
+#EXTINF:-1 tvg-id="" tvg-name="Música Clássica" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Música Clássica
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/533.ts
+#EXTINF:-1 tvg-id="" tvg-name="New Rock" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",New Rock
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Reggae" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Reggae
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sertanejo Universitário" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Sertanejo Universitário
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Samba de Raiz" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Samba de Raiz
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/529.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Pop Hits
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/528.ts
+#EXTINF:-1 tvg-id="" tvg-name="Metal" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Metal
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/527.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trilhas Sonoras" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Trilhas Sonoras
+http://direciona.sytes.net:25461/live/aM6iyLJeZF/rTN4tlQvRM/526.ts
